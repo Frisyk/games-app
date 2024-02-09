@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="title">Title</string>
+    <string name="released">Released</string>
+    <string name="rating">%s⭐</string>
+    <string name="no_data" tools:ignore="ExtraTranslation">There is no Anything Here</string>
+
+</resources>
